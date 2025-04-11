@@ -7,6 +7,9 @@ Hey there! 👋 I'm Tej Patel, a **data analyst** with a passion for uncovering 
 📍 **Based in**: Dublin, Ireland 
 💼 **Currently Seeking**: Data Analyst roles | Open to opportunities in Data, Business, CRM & Analyst roles
 
+## 🚧 Apologies!! I'm still working on a few projects.  
+### I'll be uploading them here in the next few days — stay tuned!
+
 ---
 
 ## 💡 What I Do  
