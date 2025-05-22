@@ -1,14 +1,12 @@
-# 📊 Data, Decisions & Dashboards – Tej Patel
+# 📊 Solving Business Challenges with Data & Analytics
 
-🚀 **Turning Data into Actionable Insights** | 🎯 **Solving Problems with Analytics**  
+🚀 On a Journey to Solve Business Problems with Data | 📊 Creating Dashboards that Drive Decisions
 
-Hey there! 👋 I'm Tej Patel, a **data analyst** with a passion for uncovering trends, optimizing processes, and telling stories through data. From wrangling messy datasets to building interactive dashboards, I love every step of the data journey!  
+Hey there! 👋 I'm Tej Patel — passionate about solving business problems through data driven thinking. Whether it’s digging into data, building dashboards, or exploring ways to optimize business processes, I enjoy turning complex challenges into clear, actionable insights. I love every step of the data journey!  
 
 📍 **Based in**: Dublin, Ireland 
-💼 **Currently Seeking**: Data Analyst roles | Open to opportunities in Data, Business, CRM & Analyst roles
-
-## 🚧 Apologies!! I'm still working on a few projects.  
-### I'll be uploading them here in the next few days — stay tuned!
+💼 **Currently Seeking**: Roles and opportunities in Data, Business, CRM, and Analytics — where I can help solve real-world problems.
+🤝 **Open to Collaborations**: Happy to collaborate on projects, research, or startups. Always eager to contribute my skills and learn along the way.
 
 ---
 
@@ -19,11 +17,22 @@ Hey there! 👋 I'm Tej Patel, a **data analyst** with a passion for uncovering 
 ⚡ **Process Optimization** – Automating workflows and making data work **for** you  
 
 ---
-
 ## 🔧 Skills & Tools  
-🚀 **Data Visualization**: Tableau | Power BI | Looker Studio  
-📊 **Data Analytics**: SQL | Python (Pandas, NumPy, Matplotlib, Seaborn) | Excel  
-📂 **Database Management**: PostgreSQL | MySQL | Google BigQuery  
-🛠 **ETL & Data Cleaning**: SQL Queries | Python Scripts | Alteryx  
-📈 **Experimentation & A/B Testing**  
-📡 **Cloud & Big Data**: AWS | Google Cloud  
+
+📊 **Data Analytics:**  
+SQL | Python (Pandas, NumPy, Matplotlib, Seaborn) | Excel | Google Sheets  
+
+🚀 **Data Visualization:**  
+Power BI | Tableau  
+
+📂 **Database Management:**  
+MySQL | PostgreSQL | Oracle SQL | Google BigQuery  
+
+📡 **Cloud & Database Platforms:**  
+Snowflake | Google Cloud Platform (GCP) | Azure  
+
+🛠 **ETL & Data Cleaning:**  
+SQL Queries | Python Scripts | Alteryx | Microsoft Power Query | Apache Airflow  
+
+📈 **Experimentation & A/B Testing:**  
+Google Optimize | Optimizely | Python (statsmodels, scipy)  
