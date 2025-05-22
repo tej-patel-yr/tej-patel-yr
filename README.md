@@ -4,9 +4,9 @@
 
 Hey there! 👋 I'm Tej Patel — passionate about solving business problems through data driven thinking. Whether it’s digging into data, building dashboards, or exploring ways to optimize business processes, I enjoy turning complex challenges into clear, actionable insights. I love every step of the data journey!  
 
-📍 **Based in**: Dublin, Ireland 
-💼 **Currently Seeking**: Roles and opportunities in Data, Business, CRM, and Analytics — where I can help solve real-world problems.
-🤝 **Open to Collaborations**: Happy to collaborate on projects, research, or startups. Always eager to contribute my skills and learn along the way.
+📍 **Based in:** Dublin, Ireland  
+💼 **Currently Seeking:** Roles and opportunities in Data, Business, CRM, and Analytics — where I can help solve real-world problems.  
+🤝 **Open to Collaborations:** Happy to collaborate on projects, research, or startups. Always eager to contribute my skills and learn along the way.
 
 ---
 
